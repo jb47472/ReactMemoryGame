@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Lois",
+    "image":
+      "https://i.pinimg.com/736x/b1/1f/b7/b11fb745ff50dde97c33b3298c8e0b8d--lois-griffin-family-guy.jpg",
+  },
+  {
+    "id": 2,
+    "name": "Meg",
+    "image":
+    "http://1.bp.blogspot.com/_p-qalHot9s4/TJRxBBh6P0I/AAAAAAAAAso/uY1No8VTVgM/s1600/1249310229_top-10-overlooked-megans_8.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Stewie",
+    "image":
+      "https://www.liveabout.com/thmb/HDb8oODbDYm6Qdk9Kb18-exJyG4=/653x520/filters:no_upscale():max_bytes(150000):strip_icc()/fGuy2006_Stewie1_f-56a00b003df78cafda9fc746.jpg",
+  }
+    {
+    "id": 4,
+    "name": "Glen",
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Glenn_Quagmire.png/220px-Glenn_Quagmire.png"  
+      },
+
+    {
+    "id": 5,
+    "name": "Brian",
+    "image":
+      "data:image/jpeg;base64,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VeXe0n40VCXCRawZD9nT/mB5am3+Yq3+6TBMhuzrA/OD56q3+Xav+2VE1ERAREQEREBERAREQEREBERAREQERMEwMxNWzXoPHPsnQ3Fl8AT8I2aSMGRR4sfw/vOB4q3kP3k2ukfx7/PJ6tO/721/2mNKPpF/iE1OIastrELfeodVx+JHrbHtIbP5TN3Qj6RfaJKs6WeYMzOnV6ha0LsQqqMknoB5k+A9c0yqXEFajV3WWKRVdZWVsHNFxXXXts/BzQ8zy5jnk4lxVpo8RuAqZjX3ibfTXkc1kekQPvcs8vGafZq3bv0+7cKiprbOS2nsXNZJ8cYdc+OyBNkSI4hw0hzbQQl/UjoluPu2gePQB+q/sZS7OORx158uXrkMpe+uypjt1NTcnHIbsbq7FH4SCMj+Ic4Enw7Wi6tXAIzkFTjcrA4ZGx4ggibUrnYvV98l1wGFe7eB5E007gPz7/3ljgIiICIiAiIgIiICIiAiIgIiICa+s0+9cZx4zYiBBWcNcdBn2TpbTuOqn4SxzGJNLtWSp8jMSz7ROJqHkPgI0u1R1+iW5NrEgg7lZeTIw6Mp85o18Qt07Dv03KDyurUlT/GgyyH18x6x0l77hfwj4CY+br+EfARo20eG8apuUFLFPsIP7iSDc/8A9ykdq+zultO56Ky34woVx7HXDD4zXXsvUPq26lfUNTqMfuxlZceA2LV84oJArotwpJGFrsrS0KSfBS7AeoCVTgaap2N+nrHdBFor3l0Z0qsuYOpGRsxaAOXPbnoZbNL2S0qEsVa0lt576y27L4A3YckZwAM45ACTapiBXqNfrx10gPr76sD+/wC04U8O1tl1ljvXp0sVFK1ZstATd0dgFUncee04x75ZogafC+HV6epKakCVoAqqPACbkRAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERED/9k=",
+  },
+
+  {
+    "id": 6,
+    "name": "Quagmire",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtxRzQRk72yX7YnUa-uSaVVI051n5m_IUTmPPcEozCwfIlLLjWkw"  
+      },
+
+      {
+    "id": 7,
+    "name": "Bruce",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3wyh3Bihu8yVnq8yRbxurbbfKk4miY6jahtqGT2WegwBcsLDpqxyBhY"  
+      },
+
+       {
+    "id": 8,
+    "name": "Cleveland",
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Brown.png"  
+      },
+
+    {
+    "id": 9,
+    "name": "Peter",
+    "image":
+      "https://vignette.wikia.nocookie.net/school-daze/images/0/06/Peter-animation-037-actionmodal%404x.png/revision/latest?cb=20181218210924"  
+      },
+
+    {
+    "id": 10,
+    "name": "Joe",
+    "image":
+      "https://i.pinimg.com/originals/b1/91/c2/b191c28a5cf51c0331c432ad0f1adb2a.png"  
+      },
+  
+   {
+    "id": 11,
+    "name": "Mayor West",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwXvuScTy9fqMmvaHK_0JmyFtxUPh1y6MjC2RvjYv07hYtBUh"  
+      },
+
+        {
+    "id": 12,
+    "name": "Family",
+    "image":
+      "http://ichef.bbci.co.uk/news/466/mcs/media/images/71764000/jpg/_71764522_bbc_familyguy.jpg"  
+      },
+
+
+]
