@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import "./style.css";
 
 class Header extends Component {
 
     render() {
-        return <div className = "container">
+        return <div className = "headerContainer">
             <div className = "row">
                 <div className = "col-sm-4">
                     <h4 align= "left"> Clicky Game</h4>                
