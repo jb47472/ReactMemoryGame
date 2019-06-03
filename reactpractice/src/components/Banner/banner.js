@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import "./bannerStyle.css";
 
 class Banner extends Component {
 
     render() {
-        return <div className = "container">
+        return <div className = "bannerContainer">
             
                 <h5 align = "middle">
                 Clicky Game!
