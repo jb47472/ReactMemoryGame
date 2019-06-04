@@ -15,7 +15,10 @@ function CharacterCard(props) {
             <strong>Name:</strong> {props.name}
           </li>
         </ul>
-      </div>
+        </div>
+          <span onClick={() => props.shuffle(props.id)} className="shuffle">
+             𝘅
+          </span>
     </div>
   );
 }

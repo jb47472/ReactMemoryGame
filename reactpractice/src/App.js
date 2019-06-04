@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Wrapper from "./components/Wrapper/wrapper.js";
 import Header from './components/Header/header.js';
 import Banner from './components/Banner/banner.js';
 import CharacterCard from './components/CharacterCard/character.js';
@@ -15,13 +16,26 @@ class App extends Component {
     characters: characters
   };
 
+  shuffle() {
+  const { characters } = this;
+  let m = characters.length, i;
+
+  while (m) {
+    i = Math.floor(Math.random() * m--);
+
+    [characters[m], characters[i]] = [characters[i], characters[m]];
+  }
+
+  return this;
+}
+
   render () {
   return (
+    <Wrapper>
     <div className="App"> 
     <Header status = {this.state.status} score = {this.state.score} topScore = {this.state.topScore}/>
     <Banner/>
       {this.state.characters.map(characters => (
-
     <CharacterCard
       id={characters.id}
       key={characters.id}
@@ -30,6 +44,7 @@ class App extends Component {
     />
   ))}
   </div>
+  </Wrapper>
   )};
 }
 export default App;
