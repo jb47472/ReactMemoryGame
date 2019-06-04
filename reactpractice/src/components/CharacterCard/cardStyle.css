@@ -1,0 +1,23 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 225px; 
+  position: relative;
+  width: 225px;
+  text-align: left;
+}
+
+.img-container {
+  height: 50%;
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+}
+.card > .img-container > img {
+  width: 60%
+}
+
+.container {
+    height: 75px;
+}
+
