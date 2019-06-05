@@ -31,10 +31,11 @@ class App extends Component {
 
   render () {
   return (
-    <Wrapper>
+ 
     <div className="App"> 
     <Header status = {this.state.status} score = {this.state.score} topScore = {this.state.topScore}/>
     <Banner/>
+       <Wrapper>
       {this.state.characters.map(characters => (
     <CharacterCard
       id={characters.id}
@@ -43,8 +44,9 @@ class App extends Component {
       image={characters.image}
     />
   ))}
-  </div>
   </Wrapper>
+  </div>
+  
   )};
 }
 export default App;
