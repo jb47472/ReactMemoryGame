@@ -1,4 +1,4 @@
-/* styling borrowed heavily from example */
+/* styling borrowed heavily from example in FriendCard activity*/
 
 .card {
   background: #fff;
@@ -13,7 +13,7 @@
   height: 50%;
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  background:blue;
 }
 .card > .img-container > img {
   width: 60%

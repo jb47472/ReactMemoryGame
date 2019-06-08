@@ -16,18 +16,18 @@ class App extends Component {
     characters: characters
   };
 
-  shuffle() {
-  const { characters } = this;
-  let m = characters.length, i;
+//   shuffle() {
+//   const { characters } = this;
+//   let m = characters.length, i;
 
-  while (m) {
-    i = Math.floor(Math.random() * m--);
+//   while (m) {
+//     i = Math.floor(Math.random() * m--);
 
-    [characters[m], characters[i]] = [characters[i], characters[m]];
-  }
+//     [characters[m], characters[i]] = [characters[i], characters[m]];
+//   }
 
-  return this;
-}
+//   return this;
+// }
 
   render () {
   return (
