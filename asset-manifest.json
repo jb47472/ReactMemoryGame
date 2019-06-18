@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jb47472/ReactMemoryGame.git/static/css/main.e8f716b2.chunk.css",
-    "main.js": "/jb47472/ReactMemoryGame.git/static/js/main.2921cffe.chunk.js",
-    "main.js.map": "/jb47472/ReactMemoryGame.git/static/js/main.2921cffe.chunk.js.map",
-    "runtime~main.js": "/jb47472/ReactMemoryGame.git/static/js/runtime~main.5668f247.js",
-    "runtime~main.js.map": "/jb47472/ReactMemoryGame.git/static/js/runtime~main.5668f247.js.map",
-    "static/js/2.e73f3848.chunk.js": "/jb47472/ReactMemoryGame.git/static/js/2.e73f3848.chunk.js",
-    "static/js/2.e73f3848.chunk.js.map": "/jb47472/ReactMemoryGame.git/static/js/2.e73f3848.chunk.js.map",
-    "index.html": "/jb47472/ReactMemoryGame.git/index.html",
-    "precache-manifest.adc9f998edb12f166a88460106577a59.js": "/jb47472/ReactMemoryGame.git/precache-manifest.adc9f998edb12f166a88460106577a59.js",
-    "service-worker.js": "/jb47472/ReactMemoryGame.git/service-worker.js",
-    "static/css/main.e8f716b2.chunk.css.map": "/jb47472/ReactMemoryGame.git/static/css/main.e8f716b2.chunk.css.map",
-    "static/media/logo.svg": "/jb47472/ReactMemoryGame.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ReactMemoryGame/static/css/main.e8f716b2.chunk.css",
+    "main.js": "/ReactMemoryGame/static/js/main.5a655449.chunk.js",
+    "main.js.map": "/ReactMemoryGame/static/js/main.5a655449.chunk.js.map",
+    "runtime~main.js": "/ReactMemoryGame/static/js/runtime~main.5b9475f6.js",
+    "runtime~main.js.map": "/ReactMemoryGame/static/js/runtime~main.5b9475f6.js.map",
+    "static/js/2.e73f3848.chunk.js": "/ReactMemoryGame/static/js/2.e73f3848.chunk.js",
+    "static/js/2.e73f3848.chunk.js.map": "/ReactMemoryGame/static/js/2.e73f3848.chunk.js.map",
+    "index.html": "/ReactMemoryGame/index.html",
+    "precache-manifest.5e0f8ad3a9f7de16e14f9ac2055368db.js": "/ReactMemoryGame/precache-manifest.5e0f8ad3a9f7de16e14f9ac2055368db.js",
+    "service-worker.js": "/ReactMemoryGame/service-worker.js",
+    "static/css/main.e8f716b2.chunk.css.map": "/ReactMemoryGame/static/css/main.e8f716b2.chunk.css.map",
+    "static/media/logo.svg": "/ReactMemoryGame/static/media/logo.5d5d9eef.svg"
   }
 }
