@@ -2,7 +2,7 @@
   "name": "reactpractice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jb47472/ReactMemoryGame.git",
+  "homepage": "https://jb47472.github.io/ReactMemoryGame/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
